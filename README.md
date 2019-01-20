@@ -21,4 +21,11 @@ Sorting Algorithms explained &amp; solved (JS)
   a. pros / cons<br>
   b. logic<br>
   c. step-by-step code<br>
+  d. code<br><br>
+  
+  4. MERGE SORT<br>
+
+  a. pros / cons<br>
+  b. logic<br>
+  c. step-by-step code<br>
   d. code<br>
